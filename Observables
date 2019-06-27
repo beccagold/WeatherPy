@@ -1,0 +1,10 @@
+3 Observable Trends Based on Data:
+
+1) As seen on the plot "Latitude vs. Temperature", it is noticeable that as you approach the equator, temperature rises,
+ forming a parabolic curve the farther from the equator you travel
+ 
+2) As seen in the plot "Latitude vs. Humidity", the humidity % varies more when the cities are located within the 
+  Nothern and Southern tropics.
+ 
+3) As seen in the plots "Latitude vs. Wind Speed", the wind speed mph sees the same trend as the "Latitude vs. Humidity" plot
+  where the mph vary more when the city is located within the Northern and Southern tropics.
